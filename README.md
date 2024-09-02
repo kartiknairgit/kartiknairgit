@@ -13,7 +13,7 @@
 - Initiatives related to AI, data visualization, and software development.
 
 ## 📫 How to reach me 
-- You can reach me via email at [kartik.n.1101@gmail.com](mailto:kartik.n.1101@gmail.com) or connect with me on [LinkedIn]([(https://www.linkedin.com/in/kartik-nair-7a7197246/)]).
+- You can reach me via email at [kartik.n.1101@gmail.com](mailto:kartik.n.1101@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kartik-nair-7a7197246/).
 
 ## 😄 Pronouns: 
 - He/Him
