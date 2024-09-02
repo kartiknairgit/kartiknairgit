@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @kartiknairgit
 
-## 👀 I’m interested in ...
+## 👀 I’m interested in 
 - Software engineering, particularly in developing innovative applications and solutions.
 - Data processing and machine learning, with a focus on practical implementations.
 
@@ -8,17 +8,17 @@
 - Advanced Python programming and data science techniques.
 - Agile software development practices to enhance project management skills.
 
-## 💞️ I’m looking to collaborate on ...
+## 💞️ I’m looking to collaborate on 
 - Open-source projects that involve Python, Java, or C programming.
 - Initiatives related to AI, data visualization, and software development.
 
-## 📫 How to reach me ...
-- You can reach me via email at [kartik.n.1101@gmail.com](mailto:kartik.n.1101@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kartik-nair-7a7197246/)).
+## 📫 How to reach me 
+- You can reach me via email at [kartik.n.1101@gmail.com](mailto:kartik.n.1101@gmail.com) or connect with me on [LinkedIn]([(https://www.linkedin.com/in/kartik-nair-7a7197246/)]).
 
-## 😄 Pronouns: ...
+## 😄 Pronouns: 
 - He/Him
 
-## ⚡ Fun fact: ...
+## ⚡ Fun fact: 
 - I developed a real-time hand gesture recognition system using OpenCV, showcasing my skills in computer vision and Python programming!
 
 ## 🎓 Education
