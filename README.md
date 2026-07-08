@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:1a0014,100:000000&height=220&section=header&text=KARTIK%20NAIR&fontSize=70&fontColor=FF10F0&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%E2%80%94%20AI%20SYSTEMS%20%E2%80%94%20SYDNEY&descSize=18&descAlignY=65&descColor=FF6FDB&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/kartiknairgit/kartiknairgit/main/neon-header.svg" width="100%"/>
 
 <br/>
 
