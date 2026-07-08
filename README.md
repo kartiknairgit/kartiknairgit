@@ -189,18 +189,6 @@ active :: sydney, au
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
 
-## NOW PLAYING
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-<img src="https://novatorem-kartiknairgit.vercel.app/api/spotify" width="500" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
-
 ## BACKGROUND
 
 **Education** — Bachelor of Software Engineering (Honours), The University of Sydney
