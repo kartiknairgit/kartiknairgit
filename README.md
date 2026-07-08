@@ -173,7 +173,11 @@ active :: sydney, au
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kartiknairgit&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=8&column=6" />
+<img src="https://raw.githubusercontent.com/kartiknairgit/kartiknairgit/main/touch-grass.svg" width="100%"/>
+
+<div align="center">
+<sub><code>git log --author="grass" → 0 commits found</code></sub>
+</div>
 
 </div>
 
