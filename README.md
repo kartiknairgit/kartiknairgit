@@ -171,6 +171,32 @@ active :: sydney, au
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiknairgit&hide_border=true&background=000000&stroke=FF10F0&ring=FF10F0&fire=FF10F0&currStreakLabel=FF10F0&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FF6FDB" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kartiknairgit&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=8&column=6" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kartiknairgit/kartiknairgit/output/pink-snake.svg" width="100%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
+
+## NOW PLAYING
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+<img src="https://novatorem-kartiknairgit.vercel.app/api/spotify" width="500" />
+</a>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
@@ -189,6 +215,10 @@ Thesis: *Quantifying Urban Cooling Effectiveness: A Satellite Analysis of Sydney
 <div align="center">
 
 <sub>OPEN TO COLLABORATIONS IN PYTHON, AI/ML, AND SYSTEMS ENGINEERING</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kartiknairgit&label=PROFILE+VIEWS&color=FF10F0&style=for-the-badge&labelColor=000000" />
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:1a0014,100:000000&height=90&section=footer" width="100%"/>
 
