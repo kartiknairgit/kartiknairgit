@@ -164,8 +164,8 @@ active :: sydney, au
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kartiknairgit&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=FF10F0&icon_color=FF10F0&text_color=FFFFFF&border_color=FF10F0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiknairgit&layout=compact&hide_border=true&bg_color=000000&title_color=FF10F0&text_color=FFFFFF&border_color=FF10F0" />
+<img height="165" src="https://github-readme-stats-lac-eight-rvxr2mhdqh.vercel.app/api?username=kartiknairgit&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=FF10F0&icon_color=FF10F0&text_color=FFFFFF&border_color=FF10F0" />
+<img height="165" src="https://github-readme-stats-lac-eight-rvxr2mhdqh.vercel.app/api/top-langs/?username=kartiknairgit&layout=compact&hide_border=true&bg_color=000000&title_color=FF10F0&text_color=FFFFFF&border_color=FF10F0" />
 
 <br/>
 
