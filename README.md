@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF10F0&background=00000000&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems+at+piMerce;LangGraph+%2F%2F+LangChain+%2F%2F+FastAPI+%2F%2F+RAG;Founder+%E2%80%94+Kitrova;USYD+Software+Engineering+(Honours)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF10F0&background=00000000&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems+at+piMerce;LangGraph+%2F%2F+LangChain+%2F%2F+FastAPI+%2F%2F+RAG;Founder+%E2%80%94+Strive;USYD+Software+Engineering+(Honours)" />
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I build systems that reason, not just respond. Currently engineering **LangGraph-based agentic backends** for e-commerce analytics at **piMerce**. Outside of that, I'm building **Kitrova** — a platform for international students — from zero.
+I build systems that reason, not just respond. Currently engineering **LangGraph-based agentic backends** for e-commerce analytics at **piMerce**. Outside of that, I'm building **Strive** — a platform for international students — from zero.
 
 USYD Software Engineering (Honours), thesis on satellite-based urban cooling analysis. I move fast, I ship, and I don't do filler.
 
@@ -39,7 +39,7 @@ kartik nair
 software engineer @ piMerce
 
 > building
-kitrova
+strive
 
 > stack
 python / langgraph
@@ -80,7 +80,7 @@ active :: sydney, au
 <tr>
 <td width="50%" valign="top">
 
-**KITROVA**
+**STRIVE**
 Platform for international students. Founder & builder — product, engineering, and go-to-market, end to end.
 
 </td>
@@ -106,6 +106,44 @@ Personal finance tooling, built in Python with a single-source-of-truth architec
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
+
+## 365 // DAILY AI BUILD
+
+<div align="center">
+<sub>ONE AI-BUILT ARTIFACT A DAY, EVERY DAY, UNTIL THE YEAR ENDS. NO SKIPPED DAYS — SCOPE RAMPS AS THE STREAK GROWS.</sub>
+</div>
+
+<br/>
+
+| Phase | Window | Target |
+|---|---|---|
+| **Phase 1 — Reps** | Jul – Aug | Small daily builds: scripts, snippets, one-off tools. Consistency over ambition. |
+| **Phase 2 — Depth** | Sep – Oct | Multi-file projects. Each build should extend or remix a previous one. |
+| **Phase 3 — Ship** | Nov – Dec | Polished, demo-able builds. Close the year with a capstone project. |
+
+<div align="center">
+
+<a href="https://github.com/kartiknairgit/365-ai-build"><img src="https://img.shields.io/badge/REPO-365--AI--BUILD-000000?style=for-the-badge&logo=github&logoColor=FF10F0&labelColor=000000&color=0D0D0D"></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
+
+## SIDE REPO // PASSIVE SKILLS
+
+<div align="center">
+<sub>A LOW-PRESSURE REPO FOR LANGUAGES, ALGORITHMS, AND PATTERNS OUTSIDE THE DAY-TO-DAY STACK — KEPT WARM IN THE BACKGROUND.</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/kartiknairgit/passive-skills"><img src="https://img.shields.io/badge/REPO-PASSIVE--SKILLS-000000?style=for-the-badge&logo=github&logoColor=FF10F0&labelColor=000000&color=0D0D0D"></a>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF10F0&height=3&width=100%25" width="100%"/>
 
