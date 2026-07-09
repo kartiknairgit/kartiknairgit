@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: kartiknairgit
           outputs: |
-            dist/pink-snake.svg?color_snake=%23FF10F0&color_dots=0E4429,006D32,26A641,39D353,FF10F0
+            dist/pink-snake.svg?color_snake=%23FF10F0&color_dots=%230E4429,%23006D32,%2326A641,%2339D353,%23FF10F0
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
